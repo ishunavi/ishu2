@@ -1,1 +1,2 @@
-print("hello world")
+sum1=20
+sum=20
